@@ -1,7 +1,7 @@
 Hi! This is an instruction for how to use VINN_pipeline :
 
 >>PREREQUISITES :
-	- Download VINN_pipeline.ipynb and put it with videofile folder and filelist.txt
+	- Download VINN_pipeline.ipynb and change the path where the videofile folder and filelist.txt are at 7th cell
 	- all your R3D files should be in the videofile folder
 	- please list the name of all R3D files in filelist.txt separated by comma
 	- Example: If you have "test1.r3d","test2.r3d" "test3.r3d" in the videofile, what you should have in folderfilelist.txt is "test1.r3d,test2.r3d,test3.r3d"
